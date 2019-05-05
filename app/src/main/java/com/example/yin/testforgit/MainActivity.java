@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+		private TextView textView;
     @Override
     public Looper getMainLooper() {
         return super.getMainLooper();
