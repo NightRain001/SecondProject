@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     private TextView textView;
-    private static final String TAG = "MainActivityaaasdaaaaaaaaaaaaaaaaaa";
+    private static final String TAG = "MainActivityaaasdaaaaaaaaaassssssssssssssssssssssssssss";
     @Override
     public Looper getMainLooper() {
         return super.getMainLooper();
